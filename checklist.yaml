@@ -1,0 +1,5 @@
+rosbag_pointcloud: "/home/jeff/slam/ft_0907_clip_1.bag"
+pcd_path: "/home/jeff/slam/data_clean/test_pcd/"
+rosbag_gps: "/home/jeff/slam/ft_0907_clip_1.bag"
+rosbag_imu: "/home/jeff/slam/ft_0907_clip_1.bag"
+config_file: "/home/jeff/slam/merge_ws_git/src/lio-sam-noted-master/config/params.yaml"
